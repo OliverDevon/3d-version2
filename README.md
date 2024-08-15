@@ -1,1 +1,2 @@
 # 3d-version2
+PYGAME IS NEEDED
